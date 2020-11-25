@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 
 Flag Picker 
     Displays flags of selected countries of a particular continent picked.
